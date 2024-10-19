@@ -1,7 +1,6 @@
 ![Header](./github-header-image.png)
 
-<!--
-**Crisbravoon/Crisbravoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
 <br/>  
 
@@ -63,3 +62,6 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+<!--
+**Crisbravoon/Crisbravoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
